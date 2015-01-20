@@ -1,0 +1,14 @@
+#ignore credentials file which includes secure information
+credentials.yml
+
+#ignore headings file which contains sensitive information
+headings.yml
+
+#ignore spreadsheet test
+spreadsheet.rb
+
+#ignore yamlParse test
+yamlParse.rb
+
+#ignore old snow script
+snow.rb
